@@ -1,2 +1,0 @@
-# presentation
-Presentation about Persalys
